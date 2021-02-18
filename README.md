@@ -2,6 +2,7 @@
 
 This is the complete Banking System build using C. It contains some user-defined functions which performs various banking process like:
 
+ - Creating bank account
  - Withdrawing the Cash
  - Balance Enquiry
  - Changing Pin Number
